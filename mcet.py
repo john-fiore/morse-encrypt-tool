@@ -1,3 +1,8 @@
+"""
+Morse Code Encryption Tool
+Created by John Fiore
+01-29-2025
+"""
 
 MC_DICT = {
   'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.',
